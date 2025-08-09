@@ -12,7 +12,7 @@ This project is a basic to-do list mobile application built with the **Flutter f
 
 ## Screenshots
 ![A screenshot of the app's homepage](SS/home.jpg)
-![A screenshot of the app's archive page](SS/image.jpg)
+![A screenshot of the app's archive page](SS/image.png)
 ![A screenshot of the app's Add](SS/add.jpg)
 
 ## 👨‍💻 Author
