@@ -10,7 +10,10 @@ This project is a basic to-do list mobile application built with the **Flutter f
 -   **Priority Display:** Tasks are visually color-coded based on their priority (High, Medium, Low).
 -   **Navigation:** A simple bottom navigation bar allows you to switch between the main task list and the archive.
 
-
+## Screenshots
+![A screenshot of the app's homepage](SS/home.jpg)
+![A screenshot of the app's archive page](SS/image.jpg)
+![A screenshot of the app's Add](SS/add.jpg)
 
 ## 👨‍💻 Author
 
