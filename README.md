@@ -17,7 +17,7 @@ This project is a basic to-do list mobile application built with the **Flutter f
 
 ## 👨‍💻 Author
 
--   **Devdat** - [https://github.com/devdat2021](https://github.com/devdat2021)
+-   **Devdat** - [devdat2021](https://github.com/devdat2021)
 
 
 
