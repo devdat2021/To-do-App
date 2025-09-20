@@ -25,11 +25,11 @@ To run this project, you need to have the Flutter SDK installed on your machine.
 
 1.  **Clone the repository**:
     ```bash
-    git clone [your-repository-url]
+    git clone https://github.com/devdat2021/To-do-App.git
     ```
 2.  **Navigate to the project directory**:
     ```bash
-    cd [your-project-directory]
+    cd To-do-App
     ```
 3.  **Install dependencies**:
     ```bash
